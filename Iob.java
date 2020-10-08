@@ -1,3 +1,5 @@
+8.10.2020
+
 package info.nightscout.androidaps.data;
 
 /**
